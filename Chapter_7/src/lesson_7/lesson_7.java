@@ -18,6 +18,8 @@ public class lesson_7 {
         String phoneNum = "404-543-2345";
         int idx1 = phoneNum.indexOf("-");
         System.out.println("index of first dash: " + idx1);
+
+
     }
 
 }
