@@ -16,7 +16,7 @@ public class ShoppingCart {
 	System.out.println("long1: "+long1);
 
         // Assign the long to the int and print the int variable.
-        int1 = (int) long1; 
+        int1 = (int) long1;
         System.out.println("Long assigned to int var: " + int1);
     }
 }
