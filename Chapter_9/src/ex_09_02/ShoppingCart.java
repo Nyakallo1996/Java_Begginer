@@ -11,6 +11,6 @@ public class ShoppingCart {
 
 	// Print the customer object name
         System.out.println("Customer name: "+cust1.getName());
-        System.out.println("Customer name: "+cust2.getName());
+        System.out.println("Customer name: "+cust2.getSSN());
     }    
 }
