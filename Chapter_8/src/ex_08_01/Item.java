@@ -1,7 +1,7 @@
 
 package ex_08_01;
 
-public class Item {
+public class  Item {
     char color;
     
     // Declare and code the setColor method.
